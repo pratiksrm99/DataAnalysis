@@ -2,7 +2,11 @@
 
 **All notebooks in this repository are Individual analysis project and all observations and insights are discussed in just a single notebook for each project**
 
-Generally when we look for analysis projects, it has many folders and a vast structure of standard folders and files. This includes different notebooks for each feature, feature engineering, model creation, report etc. However, this repository is created to show all this steps in a single noteebook whithout losing the structure of the project. It is a work in progress and any and every comment and suggestions are welcome. Thanks:)
+Generally when we look for analysis projects, it has many folders and a vast structure of standard folders and files. This includes different notebooks for each feature, feature engineering, model creation, report etc. However, this repository is created to show all this steps in a single notebook whithout losing the structure of the project. 
+It will be helpful for beginners and students to start understanding the stucture of projects without feeling overwhelmed by looking at those multiple nested folders.
+
+It is a work in progress and any and every comment and suggestions are welcome.
+Thanks:)
 
 ### [1. Website_Visitors_Data_Analysis](https://github.com/pratiksrm99/SingleNotebookAnalysis/blob/main/Website_Visitors_Data_Analysis.ipynb)
 * This project consists of 4 parts which are described as Part-0 (Critical thinking), Part-1 (Descriptive Analysis), Part-2 (Prescriptive Analysis), Part-3(Prediction).
