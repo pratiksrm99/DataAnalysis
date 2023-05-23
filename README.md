@@ -1,9 +1,6 @@
-# SingleNotebookAnalysis
+# Data Analysis
 
-**All notebooks in this repository are Individual analysis project and all observations and insights are discussed in just a single notebook for each project**
-
-Generally when we look for analysis projects, it has many folders and a vast structure of standard folders and files. This includes different notebooks for each feature, feature engineering, model creation, report etc. However, this repository is created to show all this steps in a single notebook whithout losing the structure of the project. 
-It will be helpful for beginners and students to start understanding the stucture of projects without feeling overwhelmed by looking at those multiple nested folders.
+Hi all, this repository contains structured and easy to follow Data Analysis projects. Some of the projects are done as an assignment for the company and I might not be able to provide data or data source for it. However, all the steps and glimpse of data is shown in the analysis notebook for reference.
 
 It is a work in progress and any and every comment and suggestions are welcome.
 Thanks:)
