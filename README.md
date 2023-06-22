@@ -12,4 +12,4 @@ Thanks:)
 * Part-1 consists of Descriptive Analysis. The notebook consists information about the data and some insights based on the demographics, time period, and visitor level. Also, some questions are answered and necessary EDA procedures are done.
 * Part-2 consists of Prescriptive Analysis. It contains some question and answers for the worst and best performing regions. It gives us insights for which region to focus on.
 * Part-3 consists of Prediction. It contains the implementation of ARIMA model for forecasting the future values of the website visitors based on which region and segment the user enters.
-* The analysis is still in progress and more progress will be shared gradually as I complete a section or feature.
+* Part-4 consists of A/B testing. We analyze the data for "Control" and "Treatment" Variation and compare the performance of the variations.
